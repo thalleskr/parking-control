@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="325" src="src/main/resources/assets/GIF 12-05-2022 00-11-15.gif">
+  <img width="500" height="325" src="src/main/resources/assets/GIF 12-05-2022 00-11-15.gif">
 </p>
 
 ## 📗 About
