@@ -76,7 +76,7 @@ public class ParkingSpotController {
     }
 
     @PutMapping("/{id}")
-    @ApiOperation(value = "Update    Spot")
+    @ApiOperation(value = "Update Spot")
     public ResponseEntity<Object> putParkingSpot(@PathVariable(value = "id") UUID id,
                                                  @RequestBody @Valid ParkingSpotDto parkingSpotDto){
         Optional<ParkingSpotModel> parkingSpotModelOptional = parkingSpotService.findById(id);
